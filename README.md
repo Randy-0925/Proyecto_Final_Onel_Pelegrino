@@ -97,7 +97,7 @@
 
 ## Empresa — Misión y Visión
 
-**XtimaCredit / Élite Inmobiliario**  
+**Aegis solutios / Élite Inmobiliario**  
 Santo Domingo, República Dominicana
 
 **Misión:** Facilitar el acceso a préstamos inmobiliarios y personales con rapidez, transparencia y respaldo tecnológico, a través de una red de sucursales tipo Call Center que garantizan atención inmediata y soluciones financieras a la medida de los clientes.
