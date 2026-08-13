@@ -75,5 +75,35 @@
 |--------|-----------|
 | Starlin De La Cruz Alonzo | 2025-2247
 
+**Responsabilidades:**
+
+
+
+
+
+### D. Equipo de Documentación — Entregables
+| Nombre | Matrícula |
+|--------|-----------|
+| Darling Nathali Fortuna García |  2025-0722 |
+| Randy Gabriel Troncoso Tejeda  | 2024-2319 |
+
+**Responsabilidades:**
+- Tabla completa de direccionamiento IP (VLSM)
+- Diagramas de topología física y lógica
+- Documentación de configuraciones
+- Registro de comunicación entre sistemas
+- Cotización de equipos
+
+
+## Empresa — Misión y Visión
+
+**XtimaCredit / Élite Inmobiliario**  
+Santo Domingo, República Dominicana
+
+**Misión:** Facilitar el acceso a préstamos inmobiliarios y personales con rapidez, transparencia y respaldo tecnológico, a través de una red de sucursales tipo Call Center que garantizan atención inmediata y soluciones financieras a la medida de los clientes.
+
+**Visión:** Ser la empresa de préstamos con mayor eficiencia operativa del país, reconocida por su capacidad de respuesta inmediata y por integrar tecnologías de red robustas que aseguren comunicación continua, segura y escalable.
+
+**Valores:** Agilidad · Transparencia · Compromiso con el cliente · Innovación tecnológica · Ética y confianza
 
 
